@@ -3,6 +3,8 @@
 Aplicación web que carga el Excel de operaciones y muestra indicadores, gráficos, una tabla y filtros.
 Todo se procesa en el navegador; no hay backend.
 
+**Demo en vivo:** https://unatrans-mini-dashboard.vercel.app — pulsa «Usar Excel de la prueba» para cargar los datos.
+
 ## Ejecutar
 
 Requisitos: Node.js 18+.
